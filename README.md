@@ -1,6 +1,6 @@
 # Meet Lantao!
 😁I am a junior software programmer, open source community advocate, lifelong learner, father of two littles, and a husband.  
-I am currently working to become MERN stack web dev after completing a rigorouse full-stack development bootcamp and has hans-on experience working with MERN stack technologies.
+I am currently working to become MERN stack web dev after completing a rigorouse full-stack development bootcamp and has hands-on experience working with MERN stack technologies.
 
 ## Technical skills
 - 🦎 MongoDB: database design, modeling, and querying
